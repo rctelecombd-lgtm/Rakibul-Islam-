@@ -1,0 +1,10 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "name": "Final Site",
+  "description": "",
+  "y7": [],
+  "Yp": []
+}
